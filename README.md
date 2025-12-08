@@ -1,2 +1,3 @@
 # portfolio_aratrika
-this is my portfolio
+This is my portfolio.
+Author-Aratrika Panda
